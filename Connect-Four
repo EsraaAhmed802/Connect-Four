@@ -2,8 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 4;   //j=6
-const int M = 5;   //i=7
+const int N = 6;   //j=6
+const int M = 7;   //i=7
 const int n_players = 2;
 char marks[n_players] = {'X','O'};
 char grid[N][M];
